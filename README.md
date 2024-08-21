@@ -1,6 +1,6 @@
-# cypress-basico-v1
+# cypress-test
 
-Sample project for the basic course of the Talking About Testing online school.
+Sample project for the create some test cases using Cypress;
 
 ## Pre-requirements
 
@@ -37,4 +37,4 @@ If you want to support this project, leave a ⭐.
 
 ___
 
-This project was created with 💚 by [Luiz Gustavo Lucena].
+This project was created by [Luiz Gustavo Lucena].
