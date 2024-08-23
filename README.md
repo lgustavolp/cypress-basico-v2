@@ -1,6 +1,6 @@
 # Study Cypress
 
-Sample project for the create some test cases using Cypress;
+Sample project for the create some test cases using Cypress + JavaScript;
 
 ## Pre-requirements
 
