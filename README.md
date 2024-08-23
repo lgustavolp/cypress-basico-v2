@@ -1,4 +1,4 @@
-# cypress-test
+# Study Cypress
 
 Sample project for the create some test cases using Cypress;
 
