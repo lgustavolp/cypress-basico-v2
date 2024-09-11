@@ -1,6 +1,6 @@
 # Study Cypress
 
-Sample project for the create some test cases using Cypress + JavaScript;
+Sample project (Central de Atendimento ao Cliente TAT) for the create some test cases using Cypress + JavaScript;
 
 ## Pre-requirements
 
